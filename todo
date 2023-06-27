@@ -1,0 +1,23 @@
+[
+    { "id": 1, "completed": true, "task": "Select a database" },
+    { "id": 2, "completed": false, "task": "Update React to latest" },
+    { "id": 3, "completed": false, "task": "Containerize backend API" },
+    {
+      "id": 4,
+      "completed": false,
+      "task": "Add docker builds to CI/CD pipeline"
+    },
+    {
+      "id": 5,
+      "completed": true,
+      "task": "Fix CORS configuration on API gateway"
+    },
+    {
+      "id": 6,
+      "completed": false,
+      "task": "Move dev stack setup to Terraform"
+    },
+    { "id": 7, "completed": false, "task": "Select an iPaaS vendor" },
+    { "id": 8, "completed": true, "task": "Document API authentication" },
+    { "id": 9, "completed": false, "task": "Build Slack integration" }
+  ]
